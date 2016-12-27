@@ -1,0 +1,314 @@
+[
+{
+"id": "0010",
+"descricao": "NOVA PALESTINA / FRADINHOS VIA AV VITÓRIA"
+},
+{
+"id": "0012",
+"descricao": "NÃO EXISTE"
+},
+{
+"id": "0014",
+"descricao": "NÃO EXISTE"
+},
+{
+"id": "0015",
+"descricao": "ILHA DE SANTA MARIA / ROMÃO"
+},
+{
+"id": "0016",
+"descricao": "NÃO EXISTE"
+},
+{
+"id": "0018",
+"descricao": "NÃO EXISTE"
+},
+{
+"id": "0020",
+"descricao": "NÃO EXISTE"
+},
+{
+"id": "0022",
+"descricao": "CONQUISTA / MATA DA PRAIA VIA SANTA MARTHA"
+},
+{
+"id": "0024",
+"descricao": "NÃO EXISTE"
+},
+{
+"id": "0026",
+"descricao": "NÃO EXISTE"
+},
+{
+"id": "0028",
+"descricao": "NÃO EXISTE"
+},
+{
+"id": "0030",
+"descricao": "NÃO EXISTE"
+},
+{
+"id": "0031",
+"descricao": "SÃO BENEDITO / ILHA DO PRÍNCIPE VIA RETA DA PENHA"
+},
+{
+"id": "0032",
+"descricao": "NÃO EXISTE"
+},
+{
+"id": "0034",
+"descricao": "NÃO EXISTE"
+},
+{
+"id": "0036",
+"descricao": "NÃO EXISTE"
+},
+{
+"id": "0038",
+"descricao": "NÃO EXISTE"
+},
+{
+"id": "0040",
+"descricao": "NÃO EXISTE"
+},
+{
+"id": "0042",
+"descricao": "NÃO EXISTE"
+},
+{
+"id": "0044",
+"descricao": "CURVA DA JUREMA / RESISTÊNCIA VIA ANDORINHAS"
+},
+{
+"id": "0046",
+"descricao": "NÃO EXISTE"
+},
+{
+"id": "0048",
+"descricao": "NÃO EXISTE"
+},
+{
+"id": "0051",
+"descricao": "SANTO ANTÔNIO / CONSOLAÇÃO / ITARARÉ"
+},
+{
+"id": "0052",
+"descricao": "SANTO ANTÔNIO / ITARARÉ / CONSOLAÇÃO"
+},
+{
+"id": "0071",
+"descricao": "SÃO PEDRO / MARUÍPE / CENTRO (CIRCULAR)"
+},
+{
+"id": "0072",
+"descricao": "SÃO PEDRO / CENTRO / MARUÍPE (CIRCULAR)"
+},
+{
+"id": "0074",
+"descricao": "SÃO CRISTOVÃO / BAIRRO DA PENHA  (CIRCULAR)"
+},
+{
+"id": "0100",
+"descricao": "NÃO EXISTE"
+},
+{
+"id": "0101",
+"descricao": "PRAIA DO CANTO / RODOVIÁRIA VIA ILHA DO PRINCIPE"
+},
+{
+"id": "0102",
+"descricao": "SANTA TEREZA/JESUS DE NAZARÉ VIA ILHA SANTA MARIA"
+},
+{
+"id": "0103",
+"descricao": "MARIO CYPRESTE / JARDIM CAMBURI VIA CARATOÍRA"
+},
+{
+"id": "0104",
+"descricao": "SANTOS DUMONT / BELA VISTA VIA MORRO DO QUADRO"
+},
+{
+"id": "0105",
+"descricao": "CURVA DA JUREMA / CRUZAMENTO VIA ROMÃO"
+},
+{
+"id": "010A",
+"descricao": "NOVA PALESTINA / FRADINHOS VIA ILHA DAS CAIEIRAS"
+},
+{
+"id": "0110",
+"descricao": "ESTRELINHA / JARDIM CAMBURI VIA RETA DA PENHA"
+},
+{
+"id": "0111",
+"descricao": "BAIRRO DO MOSCOSO / ATLÂNTICA VILLE VIA AV VITÓRIA"
+},
+{
+"id": "0112",
+"descricao": "MARIA ORTIZ / RODOVIÁRIA VIA AV VITÓRIA"
+},
+{
+"id": "0121",
+"descricao": "MÁRIO CYPRESTE/JARDIM CAMBURI VIA RETA DA PENHA"
+},
+{
+"id": "0122",
+"descricao": "AEROPORTO / RODOVIÁRIA VIA AV. VITÓRIA"
+},
+{
+"id": "0123",
+"descricao": "BAIRRO REPÚBLICA / BELA VISTA VIA RETA DA PENHA"
+},
+{
+"id": "0124",
+"descricao": "JARDIM DA PENHA / ESTRELINHA VIA RETA DA PENHA"
+},
+{
+"id": "0125",
+"descricao": "ALTO TABUAZEIRO / FONTE GRANDE VIA RETA DA PENHA"
+},
+{
+"id": "0130",
+"descricao": "RESISTÊNCIA /  JARDIM DA PENHA VIA MARECHAL CAMPOS"
+},
+{
+"id": "0151",
+"descricao": "SANTA MARTA /  RODOVIÁRIA VIA AV VITÓRIA"
+},
+{
+"id": "0160",
+"descricao": "JARDIM CAMBURI / RODOVIÁRIA VIA AV MARUÍPE"
+},
+{
+"id": "0161",
+"descricao": "MÁRIO CYPRESTE / JARDIM CAMBURI VIA MARUÍPE"
+},
+{
+"id": "0163",
+"descricao": "AEROPORTO / PARQUE MOSCOSO VIA MARIA ORTIZ"
+},
+{
+"id": "0164",
+"descricao": "MÁRIO CYPRESTE/JARDIM CAMBURI VIA MARECHAL CAMPOS"
+},
+{
+"id": "0171",
+"descricao": "MARIO CYPRESTE X JOANA D'ARC"
+},
+{
+"id": "0172",
+"descricao": "MARIO CYPRESTE X ITARARÉ"
+},
+{
+"id": "0173",
+"descricao": "TABUAZEIRO  /  RODOVIÁRIA"
+},
+{
+"id": "0175",
+"descricao": "RESISTÊNCIA / RODOVIÁRIA"
+},
+{
+"id": "0181",
+"descricao": "GRANDE VITÓRIA/TABUAZEIRO VIA BAIRRO UNIVERSITÁRIO"
+},
+{
+"id": "0182",
+"descricao": "MÁRIO CYPRESTE / BAIRRO DA PENHA VIA ALAGOANO"
+},
+{
+"id": "0184",
+"descricao": "JARDIM DA PENHA / RODOVIÁRIA VIA AV MARUÍPE"
+},
+{
+"id": "0201",
+"descricao": "BELA VISTA / CURVA DA JUREMA VIA BEIRA MAR"
+},
+{
+"id": "0202",
+"descricao": "CARATOÍRA / SHOPING VITÓRIA VIA BEIRA MAR"
+},
+{
+"id": "0203",
+"descricao": "SANTA CLARA / ILHA DO BOI VIA PARQUE MOSCOSO"
+},
+{
+"id": "0204",
+"descricao": "MARIO CYPRESTE/JABURU VIA SHOP.VITORIA (CIRCULAR)"
+},
+{
+"id": "0210",
+"descricao": "GOIABEIRAS / RODOVIÁRIA VIA BEIRA MAR (NOTURNO)"
+},
+{
+"id": "0211",
+"descricao": "SANTO ANDRÉ / JARDIM CAMBURI VIA BEIRA MAR"
+},
+{
+"id": "0212",
+"descricao": "AEROPORTO / GRANDE VITÓRIA VIA BEIRA MAR"
+},
+{
+"id": "0213",
+"descricao": "GRANDE VITÓRIA / MATA DA PRAIA VIA PRAIA DO SUÁ"
+},
+{
+"id": "0214",
+"descricao": "BENTO FERREIRA / GOIABEIRAS VIA SHOPPING VITÓRIA"
+},
+{
+"id": "0241",
+"descricao": "MÁRIO CYPRESTE/JARDIM CAMBURI VIA LEITÃO DA SILVA"
+},
+{
+"id": "0290",
+"descricao": "ESTRELINHA / JARDIM CAMBURI VIA BEIRA MAR"
+},
+{
+"id": "0302",
+"descricao": "SANTO ANTÔNIO/JD DA PENHA VIA ROD SERAFIM DERENZI"
+},
+{
+"id": "0303",
+"descricao": "CONQUISTA / GOIABEIRAS VIA MATA DA PRAIA"
+},
+{
+"id": "0310",
+"descricao": "SANTO ANDRÉ / JARDIM CAMBURI VIA JARDIM DA PENHA"
+},
+{
+"id": "031A",
+"descricao": "SÃO BENEDITO / MORRO DO PINTO VIA MÁRIO CYPRESTE"
+},
+{
+"id": "0331",
+"descricao": "ILHA DAS CAIEIRAS/PRAIA DO SUÁ VIA SHOPPINGVITORIA"
+},
+{
+"id": "0332",
+"descricao": "CURVA DA JUREMA/ RESISTÊNCIA VIA RETA DA PENHA"
+},
+{
+"id": "0333",
+"descricao": "ILHA DAS CAIEIRAS / PRAIA DO SUÁ VIA JUCUTUQUARA"
+},
+{
+"id": "0370",
+"descricao": "RESISTÊNCIA / BENTO FERREIRA VIA BEIRA MAR"
+},
+{
+"id": "073N",
+"descricao": "TABUAZEIRO / SHOP. VITÓRIA VIA DA PENHA - NORTE"
+},
+{
+"id": "073S",
+"descricao": "TABUAZEIRO / SHOP. VITÓRIA VIA JUCUTUQUARA - SUL"
+},
+{
+"id": "100A",
+"descricao": "CURVA DA JUREMA VIA RETA DA PENHA (CIRCULAR)"
+},
+{
+"id": "100B",
+"descricao": "CURVA DA JUREMA VIA BEIRA MAR (CIRCULAR)"
+}
+]
